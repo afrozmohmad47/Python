@@ -58,8 +58,8 @@ Programming langauges : Those which we are going to use for communication betwee
 
 
 # Installation:
-    1 ) Python Installation -- https://www.python.org/downloads/windows/
-    2) IDE(Editor): https://code.visualstudio.com/download
+    1  Python Installation -- https://www.python.org/downloads/windows/
+    2 IDE(Editor): https://code.visualstudio.com/download
 
 
 # .py -- Its the extension for python files..
